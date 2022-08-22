@@ -1,3 +1,3 @@
 # Моё Резюме
 ## Результат вы можете посмотреть тут 
-### [Моя работы на HTML & CSS] (https://roman1389.github.io/resume/)
+### [Моя работа на HTML & CSS] (https://roman1389.github.io/resume/)
